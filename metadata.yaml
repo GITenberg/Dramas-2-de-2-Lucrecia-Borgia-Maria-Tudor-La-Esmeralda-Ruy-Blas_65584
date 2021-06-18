@@ -9,12 +9,17 @@ contributor:
     agent_name: Prieto, A. Blanco
     gutenberg_agent_id: '53416'
     url: http://www.gutenberg.org/2009/agents/53416
+covers:
+- cover_type: archival
+  image_path: 65584-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Víctor
     gutenberg_agent_id: '53372'
     url: http://www.gutenberg.org/2009/agents/53372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65584#Dramas-2-de-2-Lucrecia-Borgia-Maria-Tudor-La-Esmeralda-Ruy-Blas
 gutenberg_issued: '2021-06-10'
 gutenberg_type: Text
 identifiers:
